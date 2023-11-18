@@ -2,16 +2,8 @@
   
 
 - 🔭 I'm currently working on [Rapidmidiex](https://github.com/Rapidmidiex/rmx)  
-  
-
 - 🎨 other passions of mine are Painting and Photography  
-  
-
-- ⚡ Fun fact: I'm not studying computer science  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
