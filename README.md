@@ -1,4 +1,4 @@
-### <div align="center">I'm Parham, a full-stack developer 🧑🏻‍💻 just for the fun of it!</div>  
+### <div align="center">I'm Parham, and I write code for fun!</div>  
   
 
 - 🔭 I'm currently working on [Rapidmidiex](https://github.com/Rapidmidiex/rmx)  
