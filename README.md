@@ -1,6 +1,3 @@
-### <div align="center">I'm Parham, and I write code for fun!</div>  
-  
-
 - 🔭 I'm currently working on [Rapidmidiex](https://github.com/Rapidmidiex/rmx)  
 - 🎨 other passions of mine are Painting and Photography  
 <br/>  
